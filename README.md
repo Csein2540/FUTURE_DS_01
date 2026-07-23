@@ -141,12 +141,10 @@ The monthly sales trend shows fluctuations over time. Monitoring sales performan
 
 ## Skills Demonstrated
 
-- Business Intelligence
-- Power BI Dashboard Development
 - Data Cleaning with Power Query
 - Business Analytics
-- Data Visualization
-- Executive Reporting
+- KPI Analysis
+- Insight Generation
 
 ---
 
